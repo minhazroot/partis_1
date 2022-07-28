@@ -42,3 +42,40 @@ body {
 .section_one-hafe img {
     width: 90%;
 }
+
+/* section fast complit */
+.About-Me {
+    display: flex;
+    background-image: url("images/shapes/top-banner.png");
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+    margin-top: 40px;
+    height: 400px;
+
+}
+
+.About-Me-div {
+    width: 50%;
+}
+
+.About-Me-div h1 {
+    font-size: 50px;
+    color: yellow;
+}
+
+.About-Me-div p {
+    font-size: 30px;
+}
+
+.About-Me-div a {
+    text-decoration: none;
+    background-color: orange;
+    padding: 25px 30px;
+    border-radius: 30%;
+}
+
+.About-Me-div img {
+    width: 90%;
+
+}
