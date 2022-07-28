@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+
+}
+
+.section_one {
+    display: flex;
+    background-image: url("images/shapes/7.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.section_one-hafe {
+    width: 50%;
+    /* margin-left: 10px; */
+
+}
+
+.skip {
+    color: orange;
+}
+
+.section_one-hafe h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.section_one-hafe p {
+    font-size: 30px;
+}
+
+.section_one-hafe a {
+    font-size: 30px;
+    text-decoration: none;
+    background-color: orange;
+    padding: 20px 40px;
+    border-radius: 20px;
+}
+
+.section_one-hafe img {
+    width: 90%;
+}
